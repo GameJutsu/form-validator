@@ -11,8 +11,6 @@ Simple client side form validation without using HTML5 validations. Check requir
 - checkEmail() to validate email with regex
 - checkPasswordsMatch() to match confirm password
 
-Design inspiration from [Dribbble](https://dribbble.com/shots/3628370-Movie-Seat-Booking)
-
 ## Demo
 
 [Form Validator](https://gamejutsu-form-validator.netlify.app/)
