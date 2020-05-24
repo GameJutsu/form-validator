@@ -1,14 +1,25 @@
-# Form Validator
+## Form Validator
 
-A simple form validator without using HTML5 validations
+Simple client side form validation without using HTML5 validations. Check required, length, email and password match
+
+## Project Specifications
+
+- Create form UI
+- Show error messages under specific inputs
+- checkRequired() to accept array of inputs
+- checkLength() to check min and max length
+- checkEmail() to validate email with regex
+- checkPasswordsMatch() to match confirm password
+
+Design inspiration from [Dribbble](https://dribbble.com/shots/3628370-Movie-Seat-Booking)
 
 ## Demo
 
-[Form-Validator](https://gamejutsu-form-validator.netlify.app/)
+[Form Validator](https://gamejutsu-form-validator.netlify.app/)
 
 ## Authors
 
-* **Kumar Vaibhav** - *Initial work* - [GameJutsu](https://github.com/gamejutsu)
+- **Kumar Vaibhav** - _Initial work_ - [GameJutsu](https://github.com/gamejutsu)
 
 ## License
 
